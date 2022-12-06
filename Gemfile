@@ -24,6 +24,8 @@ gem 'jbuilder', '~> 2.7'
 
 gem 'bootstrap-sass', '3.4.1'
 
+gem 'bcrypt', '3.1.13'
+
 
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
