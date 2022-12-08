@@ -1,5 +1,5 @@
 module SessionsHelper
-  include SessionsHelper
+
 
   # Logs in the given user.
   def log_in(user)
