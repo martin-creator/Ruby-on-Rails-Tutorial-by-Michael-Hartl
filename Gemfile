@@ -26,6 +26,8 @@ gem 'bootstrap-sass', '3.4.1'
 
 gem 'bcrypt', '3.1.13'
 
+gem 'faker', '2.1.2'
+
 
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
